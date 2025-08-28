@@ -33,6 +33,15 @@ This is not just a token — it is an evolving system where **conscious interact
 | Partnerships/Alliances  | 10%  | Strategic collaborations, exchanges    |
 | Community/Marketing     | 10%  | Campaigns, awareness, Light Grid ops   |
 
+```mermaid
+pie title EIC Token Allocation
+  "Public (Genesis Rewards) - 40%" : 40
+  "Treasury (Vault) - 25%" : 25
+  "Team & Contributors - 15%" : 15
+  "Partnerships/Alliances - 10%" : 10
+  "Community/Marketing - 10%" : 10
+```
+
 ---
 
 ## ️ Proof of Insight (PoI)
