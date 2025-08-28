@@ -50,3 +50,12 @@ Codex I: The Living Signal
 - [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md)
 - [CODEOWNERS](.github/CODEOWNERS)
 /
+
+##  Documentation Index
+
+The full EIC Codex is maintained in the [docs](docs/README.md) folder.
+
+- [Codex Intro](docs/codex-intro.md)
+- [Litepaper (Draft)](docs/litepaper.md)
+- [Smart Contract Overview](docs/contract-overview.md)
+- [Roadmap](docs/roadmap.md)
