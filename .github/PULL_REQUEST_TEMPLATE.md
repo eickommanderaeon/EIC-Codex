@@ -1,12 +1,12 @@
 # Pull Request
 
 ## Description
-<!-- Describe what this PR does -->
+<!-- What this PR changes and why -->
 
 ## Checklist
 - [ ] Code follows repo standards
 - [ ] Docs updated if needed
-- [ ] Tests passed (if applicable)
+- [ ] Tests pass (if applicable)
 
 ## Related Issues
-<!-- Link to related issues or tickets -->
+<!-- Link related issues or tickets -->

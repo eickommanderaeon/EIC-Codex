@@ -4,9 +4,9 @@
 <!-- Short description -->
 
 ## Steps to Reproduce
-1. 
-2. 
-3. 
+1.
+2.
+3.
 
 ## Expected Behavior
 <!-- What you expected -->
@@ -15,4 +15,4 @@
 <!-- What happened -->
 
 ## Additional Info
-<!-- Logs, screenshots, contract addresses, etc. -->
+<!-- Logs, screenshots, contract addresses, links, etc. -->
