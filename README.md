@@ -38,3 +38,14 @@ Codex I: The Living Signal
 - [Issue Template](.github/ISSUE_TEMPLATE.md)
 - [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md)
 - [CODEOWNERS](.github/CODEOWNERS)
+
+##  Project Documentation
+
+- [Contributing Guidelines](CONTRIBUTING.md)
+- [Security Policy](SECURITY.md)
+- [License (MIT)](LICENSE)
+
+### GitHub Workflow
+- [Issue Template](.github/ISSUE_TEMPLATE.md)
+- [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md)
+- [CODEOWNERS](.github/CODEOWNERS)
