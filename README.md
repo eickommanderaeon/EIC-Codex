@@ -59,3 +59,4 @@ The full EIC Codex is maintained in the [docs](docs/README.md) folder.
 - [Litepaper (Draft)](docs/litepaper.md)
 - [Smart Contract Overview](docs/contract-overview.md)
 - [Roadmap](docs/roadmap.md)
+  - [Visual Roadmap (Gantt)](docs/roadmap.md#eic-roadmap-visual)
