@@ -42,6 +42,15 @@ pie title EIC Token Allocation
   "Community/Marketing - 10%" : 10
 ```
 
+```mermaid
+pie title EIC Token Allocation
+  "Public (Genesis Rewards) - 40%" : 40
+  "Treasury (Vault) - 25%" : 25
+  "Team & Contributors - 15%" : 15
+  "Partnerships/Alliances - 10%" : 10
+  "Community/Marketing - 10%" : 10
+```
+
 ---
 
 ## ️ Proof of Insight (PoI)
